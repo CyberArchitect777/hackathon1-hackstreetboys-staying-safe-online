@@ -13,8 +13,9 @@
 /* General styles */
 
 .text-white{
-    color: white;
+    color: rgb(199, 199, 199);
 }
+
 
 /* Background images */
 
@@ -40,6 +41,15 @@
     height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.4);
+  }
+
+  /* Block dividers */
+
+  .block-divider--med{
+    width: 60px;
+    height: 2px;
+    color: #000;
+    background-color: #000;
   }
 
 /* Media queries */
