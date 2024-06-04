@@ -1,4 +1,6 @@
 
+/* Header */
+
 /* Navbar styles */
 
 .navbar-black {
@@ -59,14 +61,9 @@
 
 /* Footer */
 
-<<<<<<< HEAD
-
 /* Password Security Page------------> */
 
-/* Header */
-
-=======
-/* Email-social page */
+/* Email-social and Device Security page */
 
 #enclosed-section1 {
     background-color: lightyellow;
@@ -81,4 +78,3 @@
 #enclosed-section3 {
     background-color: lightgreen;
 }
->>>>>>> 4ebe31cd17f2e8485c1e7b0f4a463286f4ead9ee
