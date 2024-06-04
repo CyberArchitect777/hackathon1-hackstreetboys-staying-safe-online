@@ -36,7 +36,7 @@
     
   }
 
-  .opaque-overlay{
+  .opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -45,18 +45,18 @@
     background-color: rgba(0, 0, 0, 0.6);
   }
 
-  .jumbotron{
+  .jumbotron {
     background-color: transparent;
   }
 
-  .jumbotron-header{
+  .jumbotron-header {
     color: rgb(255, 252, 252);
     font-weight: bold;
 }
 
   /* Block dividers */
 
-  .block-divider--med{
+  .block-divider--med {
     width: 60px;
     height: 2px;
     color: #000;
@@ -80,6 +80,15 @@
 
     .dropdown-menu {
         left: -150px;
+    }
+
+    /* Email-social and Device Security page */
+
+    #headerimage {
+        max-width: 700px;
+        display: flex;
+        justify-content: center;
+        margin: auto;
     }
 }
 
@@ -116,23 +125,16 @@
 
 /* Email-social and Device Security page */
 
-#enclosed-section1 {
+.enclosed-section1 {
     background-color: lightyellow;
     margin-bottom: 20px;
 }
 
-#enclosed-section2 {
+.enclosed-section2 {
     background-color: lightblue;
     margin-bottom: 20px;
 }
 
-#enclosed-section3 {
+.enclosed-section3 {
     background-color: lightgreen;
-}
-
-#headerimage {
-    margin: auto;
-    max-width: 500px;
-    display: flex;
-    justify-content: center;
 }
