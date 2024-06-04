@@ -114,6 +114,14 @@
 
 /* Password Security Page------------> */
 
+img { 
+    display: inline-block;
+    float: right;
+    width: 280px;
+    height: 280px;
+    padding-right: 20px;
+}
+
 /* Email-social and Device Security page */
 
 #enclosed-section1 {
