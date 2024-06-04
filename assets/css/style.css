@@ -129,3 +129,10 @@
 #enclosed-section3 {
     background-color: lightgreen;
 }
+
+#headerimage {
+    margin: auto;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+}
