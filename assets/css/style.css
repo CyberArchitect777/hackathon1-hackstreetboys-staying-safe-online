@@ -1,4 +1,6 @@
 
+/* Navbar styles */
+
 .navbar-black {
     border-bottom: 3px solid #000; /* Customize the color and thickness */
     margin-bottom: 20px; /* Adjust the spacing as needed */
@@ -8,31 +10,48 @@
     left: -150px;
 }
 
+/* Media queries */
+
 @media only screen and (min-width: 658px) {
+
+    /* Navbar styles */
+
     .dropdown-menu {
         left: -100px;
     }
 }
 
 @media only screen and (min-width: 768px) {
+
+    /* Navbar styles */
+
     .dropdown-menu {
         left: -150px;
     }
 }
 
 @media only screen and (min-width: 880px) {
+
+    /* Navbar styles */
+
     .dropdown-menu {
         left: -100px;
     }
 }
 
 @media only screen and (min-width: 992px) {
+
+    /* Navbar styles */
+
     .dropdown-menu {
         left: -150px;
     }
 }
 
 @media only screen and (min-width: 1050px) {
+
+    /* Navbar styles */
+
     .dropdown-menu {
         left: -125px;
     }
@@ -40,8 +59,26 @@
 
 /* Footer */
 
+<<<<<<< HEAD
 
 /* Password Security Page------------> */
 
 /* Header */
 
+=======
+/* Email-social page */
+
+#enclosed-section1 {
+    background-color: lightyellow;
+    margin-bottom: 20px;
+}
+
+#enclosed-section2 {
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+
+#enclosed-section3 {
+    background-color: lightgreen;
+}
+>>>>>>> 4ebe31cd17f2e8485c1e7b0f4a463286f4ead9ee
