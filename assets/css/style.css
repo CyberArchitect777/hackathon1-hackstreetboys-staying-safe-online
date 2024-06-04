@@ -4,3 +4,37 @@
     margin-bottom: 20px; /* Adjust the spacing as needed */
 }
 
+.dropdown-menu {
+    left: -150px;
+}
+
+@media only screen and (min-width: 658px) {
+    .dropdown-menu {
+        left: -100px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .dropdown-menu {
+        left: -150px;
+    }
+}
+
+@media only screen and (min-width: 880px) {
+    .dropdown-menu {
+        left: -100px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .dropdown-menu {
+        left: -150px;
+    }
+}
+
+@media only screen and (min-width: 1050px) {
+    .dropdown-menu {
+        left: -125px;
+    }
+}
+
