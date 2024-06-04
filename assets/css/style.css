@@ -1,4 +1,6 @@
 
+/* Header */
+
 /* Navbar styles */
 
 .navbar-black {
@@ -93,7 +95,7 @@
 @media only screen and (min-width: 1050px) {
 
     /* Navbar styles */
-    
+
     .dropdown-menu {
         left: -125px;
     }
@@ -101,3 +103,20 @@
 
 /* Footer */
 
+/* Password Security Page------------> */
+
+/* Email-social and Device Security page */
+
+#enclosed-section1 {
+    background-color: lightyellow;
+    margin-bottom: 20px;
+}
+
+#enclosed-section2 {
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+
+#enclosed-section3 {
+    background-color: lightgreen;
+}
