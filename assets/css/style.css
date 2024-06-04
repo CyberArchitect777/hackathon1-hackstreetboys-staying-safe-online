@@ -10,6 +10,38 @@
     left: -150px;
 }
 
+/* General styles */
+
+.text-white{
+    color: white;
+}
+
+/* Background images */
+
+.smart-bg-img { 
+    height: 100vh;
+
+    background: url("../images/online-safety.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .opaque-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+
 /* Media queries */
 
 @media only screen and (min-width: 658px) {
