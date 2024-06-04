@@ -21,19 +21,19 @@
 
 /* Background images */
 
-.smart-bg-img { 
+.welcome-container { 
     height: 100vh;
 
-    background: url("../images/online-safety.jpg") no-repeat center center fixed; 
+    background: url("../images/Person-using-laptop.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 
     display: flex;
-    align-items: center;
-    justify-content: center;
     position: relative;
+    justify-content: center;
+    
   }
 
   .opaque-overlay{
@@ -42,8 +42,17 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.6);
   }
+
+  .jumbotron{
+    background-color: transparent;
+  }
+
+  .jumbotron-header{
+    color: rgb(255, 252, 252);
+    font-weight: bold;
+}
 
   /* Block dividers */
 
