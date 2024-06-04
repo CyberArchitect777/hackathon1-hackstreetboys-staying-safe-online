@@ -51,7 +51,7 @@
 @media only screen and (min-width: 1050px) {
 
     /* Navbar styles */
-    
+
     .dropdown-menu {
         left: -125px;
     }
@@ -59,3 +59,8 @@
 
 /* Footer */
 
+/* Email-social page */
+
+.enclosed-section {
+    background-color: lightyellow;
+}
