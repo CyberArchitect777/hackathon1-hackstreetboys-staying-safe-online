@@ -1,11 +1,12 @@
-
 /* Header */
 
 /* Navbar styles */
 
 .navbar-black {
-    border-bottom: 3px solid #000; /* Customize the color and thickness */
-    margin-bottom: 20px; /* Adjust the spacing as needed */
+    border-bottom: 3px solid #000;
+    /* Customize the color and thickness */
+    margin-bottom: 20px;
+    /* Adjust the spacing as needed */
 }
 
 .dropdown-menu {
@@ -14,17 +15,29 @@
 
 /* General styles */
 
-.text-white{
+
+.text-white {
     color: rgb(199, 199, 199);
+}
+
+.horizontal-list {
+    display:flex;
+    list-style-type: none;
+    padding: 0;
+    justify-content: space-evenly;
+}
+
+.horizontal-list li {
+    margin: 0 10px;
 }
 
 
 /* Background images */
 
-.welcome-container { 
+.welcome-container {
     height: 100vh;
 
-    background: url("../images/Person-using-laptop.jpg") no-repeat center center fixed; 
+    background: url("../images/person-using-laptop.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -33,35 +46,57 @@
     display: flex;
     position: relative;
     justify-content: center;
-    
-  }
 
-  .opaque-overlay{
+}
+
+.opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.6);
-  }
+}
 
-  .jumbotron{
+.jumbotron {
     background-color: transparent;
-  }
+}
 
-  .jumbotron-header{
+.jumbotron-header {
     color: rgb(255, 252, 252);
     font-weight: bold;
 }
 
-  /* Block dividers */
+.section-harassment{
+    justify-content: right;
+}
 
-  .block-divider--med{
+/* Block dividers */
+
+.block-divider--med {
     width: 60px;
     height: 2px;
-    color: #000;
-    background-color: #000;
-  }
+    
+}
+
+.block-divider--lg{
+    width: 900px;
+}
+
+.block-divider--black{
+    color: #303030;
+    background-color: #303030;
+}
+
+.block-divider--white{
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+.block-divider--gray{
+    color: #ffffff;
+    background-color: #ffffff;
+}
 
 /* Media queries */
 
