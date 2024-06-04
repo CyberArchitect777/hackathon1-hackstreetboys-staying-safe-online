@@ -13,6 +13,10 @@
     left: -150px;
 }
 
+.lower-container {
+    margin-top: 50px;
+}
+
 /* General styles */
 
 
@@ -20,6 +24,7 @@
     color: rgb(199, 199, 199);
 }
 
+<<<<<<< HEAD
 .horizontal-list {
     display:flex;
     list-style-type: none;
@@ -32,6 +37,8 @@
 }
 
 
+=======
+>>>>>>> 31b7ff8573be4731a493a836958e15f800d769b3
 /* Background images */
 
 .welcome-container {
@@ -51,12 +58,15 @@
     position: relative;
     justify-content: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 }
 
 .opaque-overlay {
 =======
     margin-top: 50px;
+=======
+>>>>>>> 31b7ff8573be4731a493a836958e15f800d769b3
  }
 
   .opaque-overlay {
