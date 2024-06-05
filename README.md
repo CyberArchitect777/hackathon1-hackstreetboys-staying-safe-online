@@ -20,10 +20,34 @@ This website was created during Hackathon 1 of the "16-Week High-Performance Ful
 <a id="instructions"></a>
 ## Instructions
 
+CyberSafe Haven is designed to be intuitive to use and to present information in a clear and easy to read way. A navigation bar is placed at the top to help the user to move around the site and a footer can be found at the bottom linking to (virtual) social media pages.
 
+# General style
+
+The site is designed to use high-constrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections.
+
+-Add images here-
+
+# Password security
+
+The first password security page has a clean professional style with the content styled clearly, making it easy to read. Images are then used to break up the content, aiding the user in not becoming overwhelmed.
+
+![Top of password security page](/assets/images/password-security-screenshot.png "Top of password security page")
+
+### Navigation bar
+
+The navigation bar is designed to be responsive at all screen sizes. The links used as descriptive and neccessarily long-winded. For this reason, a link called "Menu" is always present for the user to select hidden options. This is shown here in mobile view.
+
+![Navigation bar in mobile view](/assets/images/navbar-mobile.png "Navigation bar in mobile view")
+
+Depending on the size of the screen, some links may be displayed directly on the navigation bar. This can be seen in both laptop and desktop mode below.
+
+![Navigation bar in laptop view](/assets/images/navbar-laptop.png "Navigation bar in laptop view")
+
+![Navigation bar in desktop view](/assets/images/navbar-desktop.png "Navigation bar in desktop view")
 
 <a id="development"></a>
-## Development Considerations. 
+## Development Considerations.
 
 Upon selection of our chosen topic, we began a process of consideration into how the project might be designed and development. An initial stage was considering what categories and content a sequence of pages might contain. After collecting some summarised information from ChatGPT, we collected an exhaustive amount of information before sorting out initial categories and information. The data we collected and sorted through is contained in [initial-categorisation.pdf](/assets/docs/initial-categorisation.pdf)
 
@@ -39,7 +63,7 @@ An index.html page was created initially with focus on this as a template page. 
 The team worked cooperatively to take the project from design to final implementation and testing.
 
 - Barrie Millar (Team leader) (https://github.com/CyberArchitect777)
-- Jab J - (https://github.com/Jab90)
+- Jabbeer Jeerooburkhan - (https://github.com/Jab90)
 - Lewis Freeman - (https://github.com/LewF-Dev)
 
 <a id="technical"></a>
