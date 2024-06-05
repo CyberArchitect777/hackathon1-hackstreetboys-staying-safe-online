@@ -30,7 +30,13 @@ CyberSafe Haven is designed to be intuitive to use and to present information in
 
 The site is designed to use high-contrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections. The purpose of this choice is to make it easy for the user to feel engaged by the initial impression and then to find the main content areas light and easy to read.
 
--Add images here-
+Desktop view:
+
+![Full cover page in desktop view](/assets/images/cover-desktop.png "Full cover page in desktop view")
+
+Mobile view: 
+
+![Full cover page in mobile view](/assets/images/cover-mobile-scaled.png "Full cover page in mobile view")
 
 ### Header & Navigation bar
 
