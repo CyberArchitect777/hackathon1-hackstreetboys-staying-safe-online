@@ -32,33 +32,33 @@ The site is designed to use high-contrast colours and a neat, professional desig
 
 Desktop view of home page:
 
-![Full cover page in desktop view](/assets/images/cover-desktop.png "Full cover page in desktop view")
+![Full cover page in desktop view](/assets/images/docs/cover-desktop.png "Full cover page in desktop view")
 
 Mobile view of home page: 
 
-![Full cover page in mobile view](/assets/images/cover-mobile-scaled.png "Full cover page in mobile view")
+![Full cover page in mobile view](/assets/images/docs/cover-mobile-scaled.png "Full cover page in mobile view")
 
-Desktop view of device security only (to avoid screenshot overload)
+Desktop view of device security only (to avoid screenshot overload):
 
-![Full device security page in desktop view](/assets/images/device-security.png "Full device security page in desktop view")
+![Full device security page in desktop view](/assets/images/docs/device-security.png "Full device security page in desktop view")
 
 ### Header & Navigation bar
 
 The header contains a brand piece of text that appears on all pages aligned to the left. The right-sided navigation bar is designed to be responsive at all screen sizes. The links used as descriptive and necessarily long-winded for user-friendliness. Given the length of the topic names, a link called "Menu" is always present for the user to select hidden options. This is shown here in mobile view.
 
-![Navigation bar in mobile view](/assets/images/navbar-mobile.png "Navigation bar in mobile view")
+![Navigation bar in mobile view](/assets/images/docs/navbar-mobile.png "Navigation bar in mobile view")
 
 Depending on the size of the screen, some links may be displayed directly on the navigation bar. This can be seen in both laptop and desktop mode below.
 
-![Navigation bar in laptop view](/assets/images/navbar-laptop.png "Navigation bar in laptop view")
+![Navigation bar in laptop view](/assets/images/docs/navbar-laptop.png "Navigation bar in laptop view")
 
-![Navigation bar in desktop view](/assets/images/navbar-desktop.png "Navigation bar in desktop view")
+![Navigation bar in desktop view](/assets/images/docs/navbar-desktop.png "Navigation bar in desktop view")
 
 ### Footer
 
 The footer contains a trademark piece of text and a series of icons that link to (virtual) social media sites to accommodate users who may want to visit the organisation's other online platforms. It is designed to be basic and simplistic and carry the kind of regular content you would expect to see on a modern-day website. The colour scheme matches the nav bar to ensure consistency.
 
-![Footer bar in desktop view](/assets/images/footer-screenshot.png "Footer bar in desktop view")
+![Footer bar in desktop view](/assets/images/docs/footer-screenshot.png "Footer bar in desktop view")
 
 ### Content pages
 
@@ -75,13 +75,13 @@ Some other concepts are covered by links to other sites in the Menu -> More Info
 
 The first password security page has a clean professional style with the content styled clearly, making it easy to read. Images are then used to break up the content, aiding the user in not becoming overwhelmed. It is important to note that the header element and navigation bar are always visible and are fixed at the top of the screen for ease of use.
 
-![Top of password security page](/assets/images/password-security-screenshot.png "Top of password security page")
+![Top of password security page](/assets/images/docs/password-security-screenshot.png "Top of password security page")
 
 #### Email & Social Media Security Guide
 
 The second page focusing on email and social media has a slightly different design, with a larger image at the centre before the main content. This design was put in place to separate the page in nature from the others, keeping the user engaged while still keeping to the consistent colour and content structure as the rest of the site.
 
-![Top of email and social media security guide](/assets/images/email-social-page-screenshot.png "Top of email and social media security guide")
+![Top of email and social media security guide](/assets/images/docs/email-social-page-screenshot.png "Top of email and social media security guide")
 
 #### Other content pages
 
@@ -91,7 +91,7 @@ The rest of the content pages follow a similar ideology. They are different enou
 
 This section allows the user to access some external links relating to other forms of cyber security issues that are not covered on this website.
 
-![More info page](/assets/images/moreinfo.png "More info page")
+![More info page](/assets/images/docs/moreinfo.png "More info page")
 
 <a id="development"></a>
 ## Development Considerations
@@ -130,6 +130,7 @@ The team worked cooperatively to take the project from design to final implement
 - HTML
 - CSS
 - Bootstrap
+- Font Awesome
 
 ### Tools used:
 
@@ -137,7 +138,7 @@ The team worked cooperatively to take the project from design to final implement
 - Balsamiq (For wireframing)
 - Google Documents (For content consideration)
 - GitHub Projects (For project management)
-- ChatGPT (For name generation and content categorisation/inspiration)
+- ChatGPT (For name generation and content categorisation/inspiration/code advice)
 
 <a id="repository"></a>
 ## Repository and Project Board
@@ -147,3 +148,19 @@ The team worked cooperatively to take the project from design to final implement
 
 <a id="credits"></a>
 ## Credits
+
+Lewis Freeman
+
+- [Source for S.M.A.R.T information](https://www.hurstdrive.herts.sch.uk/e-safety/)
+- [Source for Woman Ignoring Partner image](https://www.psychologs.com/why-do-people-sometimes-ignore-each-other/)
+- [Source for emotional change image](https://www.hrvisionevent.com/content-hub/minimise-emotional-impact-change/man)
+- [Source for living alone image](https://edition.cnn.com/2022/01/12/health/living-alone-men-inflammation-wellness/index.html)
+- [Deleting social media image](https://www.unitestudents.com/the-common-room/health-and-wellbeing/i-deleted-social-media-heres-why-i-think-you-should-too)
+
+Barrie Millar
+
+- Photo by <a href="https://unsplash.com/@brookecagle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brooke Cagle</a> on <a href="https://unsplash.com/photos/woman-sitting-on-brown-wooden-chair-while-using-silver-laptop-computer-in-room-WHWYBmtn3_0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@dell?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dell</a> on <a href="https://unsplash.com/photos/person-using-laptop-on-table-dpbXgTh0Lac?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@balazsketyi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Balázs Kétyi</a> on <a href="https://unsplash.com/photos/black-smartphone-b9rPuUQ_YSs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@danielkorpai?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Korpai</a> on <a href="https://unsplash.com/photos/space-gray-ipad-pro-A5Z9g4xP6Yw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@detpho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Francesco</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-red-surface-1bBCtUAUMFI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
