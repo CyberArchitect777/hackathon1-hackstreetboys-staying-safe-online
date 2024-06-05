@@ -30,13 +30,17 @@ CyberSafe Haven is designed to be intuitive to use and to present information in
 
 The site is designed to use high-contrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections. The purpose of this choice is to make it easy for the user to feel engaged by the initial impression and then to find the main content areas light and easy to read.
 
-Desktop view:
+Desktop view of home page:
 
 ![Full cover page in desktop view](/assets/images/cover-desktop.png "Full cover page in desktop view")
 
-Mobile view: 
+Mobile view of home page: 
 
 ![Full cover page in mobile view](/assets/images/cover-mobile-scaled.png "Full cover page in mobile view")
+
+Desktop view of device security only (to avoid screenshot overload)
+
+![Full device security page in desktop view](/assets/images/device-security.png "Full device security page in desktop view")
 
 ### Header & Navigation bar
 
@@ -52,7 +56,9 @@ Depending on the size of the screen, some links may be displayed directly on the
 
 ### Footer
 
-The footer contains a trademark piece of text and a series of icons that link to (virtual) social media sites to accommodate users who may want to visit the organisation's other online platforms.
+The footer contains a trademark piece of text and a series of icons that link to (virtual) social media sites to accommodate users who may want to visit the organisation's other online platforms. It is designed to be basic and simplistic and carry the kind of regular content you would expect to see on a modern-day website. The colour scheme matches the nav bar to ensure consistency.
+
+![Footer bar in desktop view](/assets/images/footer-screenshot.png "Footer bar in desktop view")
 
 ### Content pages
 
@@ -62,6 +68,8 @@ The user is able to access content on a variety of online safety topics. These a
 - Email & social media
 - Device security
 - Cyberbullying and harassment
+
+Some other concepts are covered by links to other sites in the Menu -> More Information item.
 
 #### Password security
 
@@ -81,7 +89,9 @@ The rest of the content pages follow a similar ideology. They are different enou
 
 ### More information
 
-This section allows the user to access some external links relating to the themes covered on this site as well as other cyber security issues that are not covered. A credit section also exists here to document the external media used by the site.
+This section allows the user to access some external links relating to other forms of cyber security issues that are not covered on this website.
+
+![More info page](/assets/images/moreinfo.png "More info page")
 
 <a id="development"></a>
 ## Development Considerations
