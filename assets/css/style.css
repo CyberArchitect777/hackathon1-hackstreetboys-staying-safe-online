@@ -75,6 +75,14 @@ i{
 
 }
 
+
+/* Images */
+.head-image{
+    width: 80%;
+    height: 80%;
+}
+
+
 /* Used coders coffee house for reference */
 .opaque-overlay {
     position: absolute;
@@ -106,7 +114,7 @@ i{
 }
 
 .block-divider--md {
-    width: 200px;
+    width: 175px;
     height: 2px;   
 }
 
