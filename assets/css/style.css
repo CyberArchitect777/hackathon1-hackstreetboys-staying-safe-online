@@ -181,5 +181,10 @@ i{
 
 /* Password Security Page------------> */
 
+.fake-hr {
+    border-bottom: 1px solid lightgrey; 
+    padding-bottom: 20px;
+}
+
 /* Email-social and Device Security page */
 
