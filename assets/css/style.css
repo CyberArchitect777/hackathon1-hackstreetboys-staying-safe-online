@@ -25,11 +25,24 @@ a.navbar-brand {
     margin-right: 0px;
 }
 
-/* General styles */
-
+/* Text colors */
 .text-white {
     color: rgb(199, 199, 199);
 }
+
+.text-yellow {
+    color: rgb(209, 193, 44);
+}
+
+.text-orange {
+    color: rgb(207, 123, 66);
+}
+
+.text-red {
+    color: rgb(163, 30, 30);
+}
+
+/* General styles */
 
 .horizontal-list {
     display:flex;
@@ -82,6 +95,26 @@ i{
     height: 80%;
 }
 
+/* Font awesome Icons */
+
+.fa-icon--red{
+    color: rgb(160, 39, 39);
+}
+
+.fa-icon--purple{
+    color: rgb(116, 35, 182);
+}
+
+.fa-icon--blue{
+    color: rgb(34, 101, 224);
+}
+
+.fa-icon--green{
+    color: rgb(39, 151, 57);
+}
+
+/* Text colors */
+.text
 
 /* Used coders coffee house for reference */
 .opaque-overlay {
