@@ -35,6 +35,14 @@
     margin: 0 10px;
 }
 
+.list-style-none{
+    list-style: none;
+}
+
+i{
+    font-size: 150%;
+}
+
 /* Background images */
 
 .welcome-container {
@@ -58,7 +66,7 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .jumbotron {
@@ -66,9 +74,9 @@
 }
 
 .jumbotron-header {
-    color: rgb(255, 252, 252);
     font-weight: bold;
 }
+
 
 .section-harassment{
     justify-content: right;
@@ -76,8 +84,13 @@
 
 /* Block dividers */
 
-.block-divider--med {
+.block-divider--sm {
     width: 60px;
+    height: 2px;   
+}
+
+.block-divider--md {
+    width: 200px;
     height: 2px;   
 }
 
