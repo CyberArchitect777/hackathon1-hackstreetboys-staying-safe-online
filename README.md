@@ -28,12 +28,6 @@ The site is designed to use high-constrast colours and a neat, professional desi
 
 -Add images here-
 
-# Password security
-
-The first password security page has a clean professional style with the content styled clearly, making it easy to read. Images are then used to break up the content, aiding the user in not becoming overwhelmed.
-
-![Top of password security page](/assets/images/password-security-screenshot.png "Top of password security page")
-
 ### Navigation bar
 
 The navigation bar is designed to be responsive at all screen sizes. The links used as descriptive and neccessarily long-winded. For this reason, a link called "Menu" is always present for the user to select hidden options. This is shown here in mobile view.
@@ -45,6 +39,18 @@ Depending on the size of the screen, some links may be displayed directly on the
 ![Navigation bar in laptop view](/assets/images/navbar-laptop.png "Navigation bar in laptop view")
 
 ![Navigation bar in desktop view](/assets/images/navbar-desktop.png "Navigation bar in desktop view")
+
+# Password security
+
+The first password security page has a clean professional style with the content styled clearly, making it easy to read. Images are then used to break up the content, aiding the user in not becoming overwhelmed. It is important to note that the header element and navigation bar are always visible and is fixed at the top of the screen for ease of use.
+
+![Top of password security page](/assets/images/password-security-screenshot.png "Top of password security page")
+
+# Email & Social Media Security Guide
+
+The second page focusing on email and social media has a slightly different design, with a larger image at the center before the main content. This design was put in place to separate the page in nature from the others, keeping the user engaged while still keeping to the consistent colour and content structure as the rest of the site.
+
+![Top of email and social media security guide](/assets/images/password-security-screenshot.png "Top of email and social media security guide")
 
 <a id="development"></a>
 ## Development Considerations.
