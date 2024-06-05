@@ -51,6 +51,7 @@ i{
 
 /* Background images */
 
+/* Used coders coffee house for reference */
 .welcome-container {
     height: 100vh;
 
@@ -66,6 +67,7 @@ i{
 
 }
 
+/* Used coders coffee house for reference */
 .opaque-overlay {
     position: absolute;
     top: 0;
