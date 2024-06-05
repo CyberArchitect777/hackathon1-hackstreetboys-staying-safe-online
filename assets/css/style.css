@@ -53,10 +53,6 @@
 }
 
 .opaque-overlay {
-    margin-top: 50px;
- }
-
-  .opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
