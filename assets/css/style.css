@@ -42,6 +42,13 @@ i{
     font-size: 150%;
 }
 
+.cyber-bullying-section p{
+    margin-bottom: 75px;
+}
+.cyber-bullying-section img{
+    margin-bottom: 75px;
+}
+
 /* Background images */
 
 .welcome-container {
@@ -85,7 +92,7 @@ i{
 
 .block-divider--sm {
     width: 60px;
-    height: 2px;   
+    height: 1px;   
 }
 
 .block-divider--md {
