@@ -17,6 +17,14 @@
     margin-top: 50px;
 }
 
+a.nav-link.dropdown-toggle {
+    padding-right: 0px;
+}
+
+a.navbar-brand {
+    margin-right: 0px;
+}
+
 /* General styles */
 
 .text-white {
