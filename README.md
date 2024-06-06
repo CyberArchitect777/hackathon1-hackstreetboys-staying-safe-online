@@ -102,10 +102,40 @@ A project board was set up during GitHub Projects and populated with tasks. As t
 
 Wireframe ideas for the design were created to give a sense of the kind of interface we were going for. It was made clear during preparation for this Hackathon (being the first one) that most of the focus would be on the coding for the challenge and thus only limited attempts were made on wireframing concepts. A design was drawn up on mobile dimensions and then expanded to show tablet and laptop/desktop layouts. An example illustration of a themed website in colour was then created using this approach. Ultimately, the styled design was not retained although the wireframed black and white designs ended up laying the groundwork.
 
+Some of the abstract wireframe designs are shown below:-
+
+Mobile view without menu open:
+
+![Wireframe smartphone page barebones](/assets/images/docs/wireframe-smartphone-barebones.png "Wireframe smartphone page barebones")
+
+Mobile view with menu open:
+
+![Wireframe smartphone page barebones with menu open](/assets/images/docs/wireframe-smartphone-barebones-menu.png "Wireframe smartphone page barebones with menu open")
+
+Tablet view:
+
+![Wireframe tablet page barebones](/assets/images/docs/wireframe-tablet-barebones.png "Wireframe tablet page barebones")
+
+Desktop view:
+
+![Wireframe laptop page barebones](/assets/images/docs/wireframe-laptop-barebones.png "Wireframe laptop page barebones")
+
+The initial idea for styling was to use a complimentary colour palette like the following. However, after building a more barebones colour system for the initial construction, it became clear that it worked well in more simple colours. 
+
+![Wireframe smartphone page styled](/assets/images/docs/wireframe-smartphone-styled.png "Wireframe smartphone page styled")
+
 An index.html page was created initially with focus on this as a template page. For this reason, the priority was on creating a header, navbar and footer which was largely completed. Later on, it became clear that operational time limits meant that changes were required to the scope. At this point, a separate unlinked template.html file was created and used as a base for other pages allowing content to be easily added to index.html. From here, the site was expanded to other pages and populated with first content and then designed to a consistent, easy-to-read style.
 
 <a id="testing"></a>
 ## Testing
+
+The web site was tested in quite a few ways before completing. These are as follows:-
+
+- Page responsiveness tested on all pages at mobile, tablet, laptop and desktop sizes
+- Making sure all images load.
+- Validating every HTML and CSS page on the site with a W3C validator. All pages are error free although some have warnings that there wasn't time to solve.
+- Checking all external sites open in a new tab
+- Checking all links work
 
 <a id="future"></a>
 ## Future Ideas
@@ -157,6 +187,7 @@ Lewis Freeman
 - [Source for living alone image](https://edition.cnn.com/2022/01/12/health/living-alone-men-inflammation-wellness/index.html)
 - [Deleting social media image](https://www.unitestudents.com/the-common-room/health-and-wellbeing/i-deleted-social-media-heres-why-i-think-you-should-too)
 - [cyberbullying.html - How to protect yourself section](https://www.undp.org/kazakhstan/how-protect-yourself-cyberbullying)
+- YouTube for videos embedded onto site.
 
 Barrie Millar
 
@@ -165,3 +196,9 @@ Barrie Millar
 - Photo by <a href="https://unsplash.com/@balazsketyi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Balázs Kétyi</a> on <a href="https://unsplash.com/photos/black-smartphone-b9rPuUQ_YSs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@danielkorpai?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Korpai</a> on <a href="https://unsplash.com/photos/space-gray-ipad-pro-A5Z9g4xP6Yw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 Photo by <a href="https://unsplash.com/@detpho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Francesco</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-red-surface-1bBCtUAUMFI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Jabbeer Jeerooburkhan
+
+- Shutterstock for images
+- YouTube for videos embedded onto site.
+- [Top tips for staying secure online](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online) - Images and content was mainly taken from this website
