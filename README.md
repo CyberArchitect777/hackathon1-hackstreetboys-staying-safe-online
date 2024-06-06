@@ -8,7 +8,7 @@
 3. [Development Considerations](#development)
 4. [Testing](#testing)
 5. [Team](#team)
-6. [Future Ideas](#future)
+6. [Future Wishlist](#future)
 7. [Project Deployment](#deployment)
 8. [Technical Facts](#technical-facts)
 9. [Repository and Project Board](#repository)
@@ -17,7 +17,7 @@
 <a id="introduction"></a>
 ## Introduction
 
-Welcome to CyberSafe Haven, a website designed to introduce key concepts of staying safe online. The aim of this project is to clearly and concisely illustrate the best approaches and practices in dealing with important computer security issues. In addition to this, there are sections about security online as well as content on cyberbullying and general harassment. Finally, there are links to further information for curious readers in the "More Information" page along with final credits for external content used.
+Welcome to CyberSafe Haven, a website designed to introduce key concepts of staying safe online. The aim of this project is to clearly and concisely illustrate the best approaches and practices in dealing with important computer security issues. In addition to this, there are sections about security online as well as content on cyberbullying and general harassment. Finally, there are links to further information for curious readers in the "More Information" page.
 
 This website was created during Hackathon 1 of the "16-Week High-Performance Full Stack Skills Bootcamp" which ranged from 04/06/2024 to 06/06/2024 (1.30pm). Permission was given by the Bootcamp lead to start some coding on the day before and some minor ideas were explored during this time. Planning and preparation for the Hackathon was conducted over the weekend before (2024/06/01 - 2024/06/02). The requirements of this Hackathon are found [here](/assets/docs/hackathon-1-requirements.pdf).
 
@@ -26,9 +26,9 @@ This website was created during Hackathon 1 of the "16-Week High-Performance Ful
 
 CyberSafe Haven is designed to be intuitive to use and to present information in a clear and easy to read way. A navigation bar is placed at the top to help the user to move around the site and a footer can be found at the bottom linking to (virtual) social media pages.
 
-# General style
+### General style
 
-The site is designed to use high-contrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections. The purpose of this choice is to make it easy for the user to feel engaged by the initial impression and then to find the main content areas light and easy to read.
+The site is designed to use high-contrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections. The purpose of this choice is to make it easy for the user to feel engaged by the initial impression and then find the main content areas light and easy to read.
 
 Desktop view of home page:
 
@@ -44,11 +44,11 @@ Desktop view of device security only (to avoid screenshot overload):
 
 ### Header & Navigation bar
 
-The header contains a brand piece of text that appears on all pages aligned to the left. The right-sided navigation bar is designed to be responsive at all screen sizes. The links used as descriptive and necessarily long-winded for user-friendliness. Given the length of the topic names, a link called "Menu" is always present for the user to select hidden options. This is shown here in mobile view.
+The header contains a brand piece of text that appears on all pages aligned to the left. The right-sided navigation bar is designed to be responsive at all screen sizes. The links used are descriptive and necessarily long-winded for user-friendliness. Given the length of the topic names, a link called "Menu" is always present for the user to select hidden options from a dropdown list. This is shown here in mobile view.
 
 ![Navigation bar in mobile view](/assets/images/docs/navbar-mobile.png "Navigation bar in mobile view")
 
-Depending on the size of the screen, some links may be displayed directly on the navigation bar. This can be seen in both laptop and desktop mode below.
+Depending on the size of the screen, some links may be displayed directly on the navigation bar. This can be seen in both laptop and desktop modes below.
 
 ![Navigation bar in laptop view](/assets/images/docs/navbar-laptop.png "Navigation bar in laptop view")
 
@@ -56,7 +56,7 @@ Depending on the size of the screen, some links may be displayed directly on the
 
 ### Footer
 
-The footer contains a trademark piece of text and a series of icons that link to (virtual) social media sites to accommodate users who may want to visit the organisation's other online platforms. It is designed to be basic and simplistic and carry the kind of regular content you would expect to see on a modern-day website. The colour scheme matches the nav bar to ensure consistency.
+The footer contains a trademark piece of text and a series of icons that link to (virtual) social media sites. This was implemented to accommodate users who may want to visit the organisation's other online platforms. It is designed to be basic, simplistic and carry the kind of regular content you would expect to see on a modern-day website. The colour scheme matches the nav bar to ensure consistency.
 
 ![Footer bar in desktop view](/assets/images/docs/footer-screenshot.png "Footer bar in desktop view")
 
@@ -69,11 +69,11 @@ The user is able to access content on a variety of online safety topics. These a
 - Device security
 - Cyberbullying and harassment
 
-Some other concepts are covered by links to other sites in the Menu -> More Information item.
+Some other concepts are covered by links to other sites in the Menu -> More Information section.
 
 #### Password security
 
-The first password security page has a clean professional style with the content styled clearly, making it easy to read. Images are then used to break up the content, aiding the user in not becoming overwhelmed. It is important to note that the header element and navigation bar are always visible and are fixed at the top of the screen for ease of use.
+The first password security page has a clean professional style with the content styled clearly, making it easy to read. Images are then used to break up the content, aiding the user in not becoming overwhelmed. It is important to note that the header element and navigation bar are always visible and are fixed to the top of the screen for ease of use.
 
 ![Top of password security page](/assets/images/docs/password-security-screenshot.png "Top of password security page")
 
@@ -96,13 +96,13 @@ This section allows the user to access some external links relating to other for
 <a id="development"></a>
 ## Development Considerations
 
-Upon selection of our chosen topic, we began a process of consideration into how the project might be designed and developed. An initial stage was considering what categories and content a sequence of pages might contain. After collecting some summarised information from ChatGPT, we collected an exhaustive amount of information before sorting out initial categories and information. The data we collected and sorted through is contained in [initial-categorisation.pdf](/assets/docs/initial-categorisation.pdf)
+Upon selection of our chosen topic, we began a process of consideration into how the project might be designed and developed. An initial stage involved considering what categories and content a sequence of pages might contain. After collecting some summarised information from ChatGPT, we collected an exhaustive amount of information before sorting out initial categories and information. The data we collected and sorted through is contained in [initial-categorisation.pdf](/assets/docs/initial-categorisation.pdf)
 
-A project board was set up during GitHub Projects and populated with tasks. As the project progressed, these items were moved from "Todo" to "In Progress" and then to "Completed". A full Agile methodology was not required during this Hackathon and thus the project board was only used in a basic sense for management.
+A project board was set up using GitHub Projects and populated with tasks. As the project progressed, these items were moved from "Todo" to "In Progress" and then to "Completed". A full Agile methodology was not required during this Hackathon and thus the project board was only used in a basic sense for management.
 
-Wireframe ideas for the design were created to give a sense of the kind of interface we were going for. It was made clear during preparation for this Hackathon (being the first one) that most of the focus would be on the coding for the challenge and thus only limited attempts were made on wireframing concepts. A design was drawn up on mobile dimensions and then expanded to show tablet and laptop/desktop layouts. An example illustration of a themed website in colour was then created using this approach. Ultimately, the styled design was not retained although the wireframed black and white designs ended up laying the groundwork.
+Wireframe ideas for the design were created to give a sense of the kind of interface we were going for. It was made clear during preparation for this Hackathon (being the first one) that most of the focus would be on the coding for the challenge. For this reason, only limited attempts were made on wireframing concepts. A design was drawn up on mobile dimensions and then expanded to show tablet and laptop/desktop layouts. An example illustration of a themed website in colour was then created using this approach.
 
-Some of the abstract wireframe designs are shown below:-
+Some of the wireframe designs are shown below:-
 
 Mobile view without menu open:
 
@@ -120,26 +120,27 @@ Desktop view:
 
 ![Wireframe laptop page barebones](/assets/images/docs/wireframe-laptop-barebones.png "Wireframe laptop page barebones")
 
-The initial idea for styling was to use a complimentary colour palette like the following. However, after building a more barebones colour system for the initial construction, it became clear that it worked well in more simple colours. 
+The initial idea for styling was to use a complimentary colour palette like the following. However, after building a more barebones colour system for the initial construction of the site, it became clear that it worked well in more simple colours. Ultimately therefore, the styled site came to resemble the abstract wireframes more than the styled approach.
 
 ![Wireframe smartphone page styled](/assets/images/docs/wireframe-smartphone-styled.png "Wireframe smartphone page styled")
 
-An index.html page was created initially with focus on this as a template page. For this reason, the priority was on creating a header, navbar and footer which was largely completed. Later on, it became clear that operational time limits meant that changes were required to the scope. At this point, a separate unlinked template.html file was created and used as a base for other pages allowing content to be easily added to index.html. From here, the site was expanded to other pages and populated with first content and then designed to a consistent, easy-to-read style.
+An index.html page was created initially with focus on this as a template page. For this reason, the priority was on creating a header, navbar and footer before other content. Later on, it became clear that operational time limits meant that changes were required to the scope. At this point, a separate unlinked template.html file was created and used as a base for other pages. This allowed content to be easily added to the index file and kept template.html for new pages. From here, the site was expanded and populated with content before being styled to a consistent, easy-to-read standard.
 
 <a id="testing"></a>
 ## Testing
 
-The web site was tested in quite a few ways before completing. These are as follows:-
+The website was tested in quite a few ways before completion. The following checks were carried out:-
 
-- Page responsiveness tested on all pages at mobile, tablet, laptop and desktop sizes
-- Making sure all images load.
-- Validating every HTML and CSS page on the site with a W3C validator. All pages are error free although some have warnings that there wasn't time to solve.
-- Checking all external sites open in a new tab
-- Checking all links work
+- Page responsiveness was tested on all pages at mobile, tablet, laptop and desktop sizes
+- All images load as expected.
+- Every HTML and CSS page on the site was checked with a W3C validator. All pages are error free although some have warnings that there wasn't time to solve.
+- All external site links open in a new tab
+- All internal site links work
 
 <a id="future"></a>
-## Future Ideas
+## Future Wishlist
 
+- Remove all W3C validator warnings on all pages.
 - Fix the nav bar to show more items in desktop view, the current structure was designed for more pages.
 - Add more categories and content to the site.
 - Work on spacing and content separation a bit more. There are areas where it isn't perfect.
@@ -159,7 +160,7 @@ The team worked cooperatively to take the project from design to final implement
 - Lewis Freeman - (https://github.com/LewF-Dev)
 
 <a id="technical"></a>
-## Technical facts
+## Technical Facts
 
 ### Technologies used:
 
@@ -208,6 +209,6 @@ Photo by <a href="https://unsplash.com/@detpho?utm_content=creditCopyText&utm_me
 
 Jabbeer Jeerooburkhan
 
-- YouTube for videos embedded onto site.
 - [Top tips for staying secure online](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online) - Images and content was mainly taken from this website
 - [Shutterstock](https://www.shutterstock.com) for additional images
+- YouTube for videos embedded onto site.
