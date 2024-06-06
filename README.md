@@ -24,11 +24,11 @@ This website was created during Hackathon 1 of the "16-Week High-Performance Ful
 <a id="instructions"></a>
 ## Instructions and Features
 
-CyberSafe Haven is designed to be intuitive to use and to present information in a clear and easy to read way. A navigation bar is placed at the top to help the user to move around the site and a footer can be found at the bottom linking to (virtual) social media pages.
+CyberSafe Haven is designed to be intuitive to use and to present information in a clear and easy-to-read way. A navigation bar is placed at the top to help the user to move around the site and a footer can be found at the bottom linking to (virtual) social media pages.
 
 ### General style
 
-The site is designed to use high-contrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections. The purpose of this choice is to make it easy for the user to feel engaged by the initial impression and then find the main content areas light and easy to read.
+The site is designed to use high-contrast colours and a neat, professional design. The first page has an attractive styled image with all other pages sporting a black on white style for the main sections. The purpose of this choice is to make it easy for the user to feel engaged by the initial impression and then find the main content areas light and easy-to-read.
 
 Desktop view of home page:
 
@@ -44,7 +44,7 @@ Desktop view of device security only (to avoid screenshot overload):
 
 ### Header & Navigation bar
 
-The header contains a brand piece of text that appears on all pages aligned to the left. The right-sided navigation bar is designed to be responsive at all screen sizes. The links used are descriptive and necessarily long-winded for user-friendliness. Given the length of the topic names, a link called "Menu" is always present for the user to select hidden options from a dropdown list. This is shown here in mobile view.
+The header contains a brand piece of text that appears on all pages aligned to the left and links to the home page as per convention. The right-sided navigation bar is designed to be responsive at all screen sizes. The links used are descriptive and necessarily long for user-friendliness. Given the length of the topic names, a link called "Menu" is always present for the user to select hidden options from a dropdown list. This is shown here in mobile view.
 
 ![Navigation bar in mobile view](/assets/images/docs/navbar-mobile.png "Navigation bar in mobile view")
 
@@ -133,7 +133,7 @@ The website was tested in quite a few ways before completion. The following chec
 
 - Page responsiveness was tested on all pages at mobile, tablet, laptop and desktop sizes
 - All images load as expected.
-- Every HTML and CSS page on the site was checked with a W3C validator. All pages are error free although some have warnings that there wasn't time to solve.
+- Every HTML and CSS page on the site was checked with the W3C validator. All pages are error free although some have warnings that there wasn't time to solve.
 - All external site links open in a new tab
 - All internal site links work
 
@@ -141,7 +141,7 @@ The website was tested in quite a few ways before completion. The following chec
 ## Future Wishlist
 
 - Remove all W3C validator warnings on all pages.
-- Fix the nav bar to show more items in desktop view, the current structure was designed for more pages.
+- Fix the navigation bar to show more items in desktop view, the current structure was designed for more pages.
 - Add more categories and content to the site.
 - Work on spacing and content separation a bit more. There are areas where it isn't perfect.
 
