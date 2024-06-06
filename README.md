@@ -19,10 +19,10 @@
 
 Welcome to CyberSafe Haven, a website designed to introduce key concepts of staying safe online. The aim of this project is to clearly and concisely illustrate the best approaches and practices in dealing with important computer security issues. In addition to this, there are sections about security online as well as content on cyberbullying and general harassment. Finally, there are links to further information for curious readers in the "More Information" page along with final credits for external content used.
 
-This website was created during Hackathon 1 of the "16-Week High-Performance Full Stack Skills Bootcamp" which ranged from 06/04/2024 to 06/06/2024 (12pm). Permission was given by the Bootcamp lead to start coding on the day before and some minor ideas were explored during this time. Planning and preparation for the Hackathon was conducted over the weekend before (2024/06/01 - 2024/06/02). The requirements of this Hackathon are found [here](/assets/docs/hackathon-1-requirements.pdf).
+This website was created during Hackathon 1 of the "16-Week High-Performance Full Stack Skills Bootcamp" which ranged from 04/06/2024 to 06/06/2024 (1.30pm). Permission was given by the Bootcamp lead to start some coding on the day before and some minor ideas were explored during this time. Planning and preparation for the Hackathon was conducted over the weekend before (2024/06/01 - 2024/06/02). The requirements of this Hackathon are found [here](/assets/docs/hackathon-1-requirements.pdf).
 
 <a id="instructions"></a>
-## Instructions
+## Instructions and Features
 
 CyberSafe Haven is designed to be intuitive to use and to present information in a clear and easy to read way. A navigation bar is placed at the top to help the user to move around the site and a footer can be found at the bottom linking to (virtual) social media pages.
 
