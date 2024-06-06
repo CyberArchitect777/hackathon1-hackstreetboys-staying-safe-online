@@ -140,8 +140,14 @@ The web site was tested in quite a few ways before completing. These are as foll
 <a id="future"></a>
 ## Future Ideas
 
+- Fix the nav bar to show more items in desktop view, the current structure was designed for more pages.
+- Add more categories and content to the site.
+- Work on spacing and content separation a bit more. There are areas where it isn't perfect.
+
 <a id="deployment"></a>
 ## Project Deployment
+
+The deployed website can be found [here](https://cyberarchitect777.github.io/hackathon1-hackstreetboys-staying-safe-online/)
 
 <a id="team"></a>
 ## Team
@@ -175,6 +181,7 @@ The team worked cooperatively to take the project from design to final implement
 
 - GitHub repository - https://github.com/CyberArchitect777/hackathon1-hackstreetboys-staying-safe-online
 - GitHub project board - https://github.com/users/CyberArchitect777/projects/3/views/1
+- GitHub deployed website - https://cyberarchitect777.github.io/hackathon1-hackstreetboys-staying-safe-online/
 
 <a id="credits"></a>
 ## Credits
@@ -187,6 +194,8 @@ Lewis Freeman
 - [Source for living alone image](https://edition.cnn.com/2022/01/12/health/living-alone-men-inflammation-wellness/index.html)
 - [Deleting social media image](https://www.unitestudents.com/the-common-room/health-and-wellbeing/i-deleted-social-media-heres-why-i-think-you-should-too)
 - [cyberbullying.html - How to protect yourself section](https://www.undp.org/kazakhstan/how-protect-yourself-cyberbullying)
+- [Credit for unhappy-phone-user image](https://abcnews.go.com/Technology/science-doomscrolling/story?id=74402415)
+- [For index page background image](https://www.freepik.com/premium-ai-image/person-typing-laptop-dark-room_44329314.htm)
 - YouTube for videos embedded onto site.
 
 Barrie Millar
@@ -199,6 +208,6 @@ Photo by <a href="https://unsplash.com/@detpho?utm_content=creditCopyText&utm_me
 
 Jabbeer Jeerooburkhan
 
-- Shutterstock for images
 - YouTube for videos embedded onto site.
 - [Top tips for staying secure online](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online) - Images and content was mainly taken from this website
+- [Shutterstock](https://www.shutterstock.com) for additional images
